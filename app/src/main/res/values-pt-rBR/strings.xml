@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meus Filmes Favoritos</string>
+    <string name="str_titulo">Título:</string>
+    <string name="str_nome_filme">E o vento levou</string>
+    <string name="str_sinopse">Mussum Ipsum, cacilds vidis litro abertis. Delegadis gente finis, bibendum egestas augue arcu ut est. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Aenean aliquam molestie leo, vitae iaculis nisl.</string>
+    <string name="str_btn_comprar">Comprar por R$ 19,90</string>
+    <string name="str_btn_alugar">Alugar por R$ 7,90</string>
+</resources>
